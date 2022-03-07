@@ -1,0 +1,11 @@
+category,count
+Cracked,3756
+CrackedCropped,1000
+CrackedRot,1000
+CrackedBlur,1000
+CrackedBri,500
+UnCracked,4302
+UnCrackedCropped,818
+UnCrackedRot,818
+UnCrackedBlur,818
+UnCrackedBri,500
